@@ -207,9 +207,18 @@ function getBooks() {
           {
             id: 16,
             title: "Zelda Hyrule Historia",
-            url: "./assets/historia.jpg",
+            url: "./assets/hyrule-historia.jpg",
             originalPrice: 59.99,
             salePrice: 39.99,
+            rating: 4.5,
+  
+          },
+          {
+            id: 17,
+            title: "Sundial",
+            url: "./assets/sundial.jpg",
+            originalPrice: 29.99,
+            salePrice: 19.99,
             rating: 4.5,
   
           },
