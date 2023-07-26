@@ -172,7 +172,7 @@ function getBooks() {
           id: 12,
           title: "Off the Deep End",
           url: "./assets/deepend.jpg",
-          originalPrice: 30,
+          originalPrice: 15,
           salePrice: null,
           rating: 4,
 
@@ -220,6 +220,33 @@ function getBooks() {
             originalPrice: 29.99,
             salePrice: 19.99,
             rating: 4.5,
+  
+          },
+          {
+            id: 18,
+            title: "The Nightmare Girl",
+            url: "./assets/nightmare-girl.jpg",
+            originalPrice: 19.99,
+            salePrice: 9.99,
+            rating: 4.5,
+  
+          },
+          {
+            id: 19,
+            title: "Saga",
+            url: "./assets/saga.jpeg",
+            originalPrice: 39.99,
+            salePrice: 29.99,
+            rating: 4.7,
+  
+          },
+          {
+            id: 20,
+            title: "Playground",
+            url: "./assets/playground.jpeg",
+            originalPrice: 10.99,
+            salePrice: 8.99,
+            rating: 4.2,
   
           },
       ]);
