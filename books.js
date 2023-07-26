@@ -179,8 +179,8 @@ function getBooks() {
         },
         {
             id: 13,
-            title: "Berserk Volume 41",
-            url: "./assets/berserk.jpg",
+            title: "Berserk Volume 1",
+            url: "./assets/Berserk-vol.1.webp",
             originalPrice: 20,
             salePrice: 9.99,
             rating: 5,
