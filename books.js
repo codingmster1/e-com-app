@@ -177,6 +177,42 @@ function getBooks() {
           rating: 4,
 
         },
+        {
+            id: 13,
+            title: "Berserk Volume 41",
+            url: "./assets/berserk.jpg",
+            originalPrice: 20,
+            salePrice: 9.99,
+            rating: 5,
+  
+          },
+          {
+            id: 14,
+            title: "Vagabond",
+            url: "./assets/vagabond.jpg",
+            originalPrice: 40,
+            salePrice: 19.99,
+            rating: 4.5,
+  
+          },
+          {
+            id: 15,
+            title: "Vinland Saga",
+            url: "./assets/vinland.webp",
+            originalPrice: 19.99,
+            salePrice: 9.99,
+            rating: 4.5,
+  
+          },
+          {
+            id: 16,
+            title: "Zelda Hyrule Historia",
+            url: "./assets/historia.jpg",
+            originalPrice: 59.99,
+            salePrice: 39.99,
+            rating: 4.5,
+  
+          },
       ]);
     }, 1000);
   });
