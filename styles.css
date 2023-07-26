@@ -67,7 +67,7 @@
   }
   
   .btn {
-    background-color: #7342d6;
+    background-color: rgb(212, 146, 21);
     color: white;
     padding: 12px 24px;
     font-size: 20px;
@@ -75,8 +75,8 @@
     border: none;
   }
   
-  .purple {
-    color: #7342d6;
+  .orange {
+    color: rgb(212, 146, 21);
   }
   
   .logo {
@@ -97,7 +97,7 @@
     margin-left: 16px;
     text-decoration: none;
     font-size: 20px;
-    color: #7342d6;
+    color: rgb(212, 146, 21);
     font-weight: bold;
     padding: 8px;
   }
@@ -107,7 +107,7 @@
   }
   
   .nav__link--primary {
-    border: 2px solid #7342d6;
+    border: 2px solid rgb(212, 146, 21);
     border-radius: 4px;
   }
   
@@ -119,13 +119,13 @@
     background-color: transparent;
     font-size: 40px;
     border: none;
-    color: #7342d6;
+    color: rgb(10, 10, 10);
     display: none;
   }
   
   .menu__backdrop {
     position: absolute;
-    background-color: #242424;
+    background-color: rgb(245, 183, 69);
     top: 0;
     left: 0;
     right: 0;
@@ -171,7 +171,7 @@
     top: 10px;
     right: 20px;
     padding: 8px;
-    color: white;
+    color: rgb(10, 10, 10);
   }
   
   
@@ -245,7 +245,7 @@
   
   #highlights:after,
   #highlights:before {
-    background: url('assets/wave.svg');
+    
     content: "";
     position: absolute;
     width: 101vw;
@@ -285,8 +285,8 @@
   }
   
   .highlight__img {
-    border: 2px solid #7342d65d;
-    color: #7342d6;
+    border: 2px solid rgb(212, 146, 21);
+    color: rgb(131, 12, 12);
     width: 100px;
     height: 100px;
     display: flex;
@@ -311,7 +311,7 @@
   
   #features {
     padding-top: 8vw;
-    background-color: rgba(115, 66, 214, 0.1);
+    background-color: rgba(245, 238, 225);
   }
   
   .books {
@@ -376,7 +376,7 @@
   */
   
   #explore {
-    background-color: rgba(115, 66, 214, 0.1);
+    background-color: rgb(245, 238, 225);
   }
   
   /* 
@@ -386,7 +386,7 @@
   */
   
   footer {
-    background-color: #242424;
+    background-color: rgb(238, 177, 65);
   }
   
   .footer__logo {
