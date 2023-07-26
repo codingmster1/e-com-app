@@ -118,7 +118,7 @@ function getBooks() {
           url: "./assets/blackfarm.jpg",
           originalPrice: 32,
           salePrice: 17,
-          rating: 4,
+          rating: 4.5,
         },
         {
           id: 6,
@@ -150,7 +150,7 @@ function getBooks() {
           url: "./assets/needless.jpg",
           originalPrice: 35,
           salePrice: null,
-          rating: 2,
+          rating: 4.5,
         },
         {
           id: 10,
@@ -166,7 +166,7 @@ function getBooks() {
           url: "./assets/nohuman.jpg",
           originalPrice: 30,
           salePrice: null,
-          rating: 4.5,
+          rating: 5,
         },
         {
           id: 12,
@@ -174,7 +174,7 @@ function getBooks() {
           url: "./assets/deepend.jpg",
           originalPrice: 30,
           salePrice: null,
-          rating: 4.5,
+          rating: 4,
 
         },
       ]);
